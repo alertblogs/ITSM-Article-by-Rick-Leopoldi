@@ -1,40 +1,14 @@
-AlertOps Expert Guidance
+ITSM Article by Rick Leopoldi
 ========
+Do you want your users with select authorities to be able to have access 24/7 from any device? Of course you do! It creates a business focused on need, requirements and IT service provisions. AlertOps’ multi-modal paging allows you to stay on top of your alerts by sending voice, sms, push notifications and email alerts to your support teams on every device. With the best practices including IT service management (ITSM), the cloud, personal devices with the ability to transform your organization. Stay up-to-date with up-to-date technology and fast passed integrations. AlertOps’ smart routing will ensure that your alerts get to the right person, using the right means.
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+The main objective is to determine your obstacles and hurdle over them with adding ITSM service provisions. This in turn enables your business and IT functions to achieve the right things the right way! AlertOps’ workflows can manage your service levels and send reminders to incident owners at regular intervals or send reminders off of an SLA. Our workflows can also send notifications to systems as well as people, allowing you to also change the control process needed to resolve an incident. These specific ITSM methods will allow you to effectively meet your business solution requirements. Rick describes the ITSM approach in three phases and eight steps over five years: stabilization, rationalization and transformation.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
-
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
-
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
-
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+The ITSM best practices help customers to meet and achieve their goals, allowing them to increase their customer focus by adding service provisions, enabling customers to align their business and IT to maximize their service. Just like AlertOps’ message rule and workflow engines, they give you the flexibility to configure and enhance your incident management solutions to fit your needs.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/check-itsm-article-rick-leopoldi/
 
 Read more:
 ====
